@@ -1,88 +1,54 @@
-# Hi there, I'm Arafat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Arafat Hossan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+Express+%7C+Nest.js;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Next.js+%7C+Node.js+%7C+TypeScript;Building+scalable+web+applications" alt="Typing SVG" />
 </div>
 
-## 💼 Professional Summary
+---
 
-Full-stack developer with expertise in modern web technologies. Currently working at Barikoi Technologies LTD, where I build scalable and performant web applications. Passionate about creating end-to-end solutions from development to deployment and maintenance.
+Full-stack developer at **Barikoi Technologies LTD**, building scalable web applications end-to-end — from development to deployment.
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+**Frontend**
+&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+
+**Backend**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1A1A2E?style=flat-square&logo=nestjs&logoColor=E0234E)
+
+**Data & Infra**
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A2E?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A2E?style=flat-square&logo=mongodb&logoColor=4EA94B)
+![Prisma](https://img.shields.io/badge/Prisma-1A1A2E?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A1A2E?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+
+## Currently Learning
+
+Machine Learning &amp; AI — neural networks, generative models, and AI agents.
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=transparent&hide_border=true&ring=6E7681&fire=6E7681&currStreakLabel=6E7681" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafataft&layout=compact&theme=transparent&hide_border=true&title_color=6E7681&text_color=6E7681" alt="Top Languages" />
 </div>
 
-## 🚀 What I Do
+## Connect
 
-- Develop full-stack web applications using Next.js, Express, and Nest.js
-- Design and implement RESTful APIs and microservices
-- Deploy and maintain applications on VPS servers
-- Optimize application performance and user experience
-
-## 🌱 Current Learning Journey
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-I'm currently expanding my knowledge in AI/ML, with plans to dive deeper into:
-- **Neural networks**: CNN, RNN, and transformers
-- **Generative models**: GANs, diffusion models, and LLMs
-- **AI Agents**: Building autonomous systems
-
-## 👯 Looking For
-
-- Collaboration opportunities on open-source projects
-- Connections with fellow developers and tech enthusiasts
-- Opportunities to mentor aspiring web developers
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafataft&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</div>
-
-## 📫 How to Reach Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arafat-hossan-aft">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:arafatcd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <br><br>
-  <img src="https://profile-counter.glitch.me/arafataft/count.svg" />
-</div>
-
-<!--
-**arafataft/arafataft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<a href="https://www.linkedin.com/in/arafat-hossan-aft">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:arafatcd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
