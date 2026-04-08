@@ -31,10 +31,6 @@ Full-stack developer at **Barikoi Technologies LTD**, building scalable web appl
 ![Docker](https://img.shields.io/badge/Docker-1A1A2E?style=flat-square&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 
-## Currently Learning
-
-Machine Learning &amp; AI — neural networks, generative models, and AI agents.
-
 ## GitHub Stats
 
 <div align="center">
